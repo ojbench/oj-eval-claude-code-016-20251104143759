@@ -1,0 +1,21 @@
+20
+insert test 1
+insert test 2
+insert test 3
+find test
+insert test 0
+delete test 2
+find test
+insert another 5
+insert another 3
+insert another 1
+find another
+delete another 3
+find another
+find nonexistent
+insert single 42
+find single
+delete single 42
+find single
+insert test 2
+find test
